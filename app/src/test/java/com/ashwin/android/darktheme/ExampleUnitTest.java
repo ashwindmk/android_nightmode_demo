@@ -1,4 +1,4 @@
-package com.ashwin.android.nightmodedemo;
+package com.ashwin.android.darktheme;
 
 import org.junit.Test;
 
